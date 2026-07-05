@@ -1,9 +1,27 @@
+# Hi, I'm Limon 👋
+
 ### Systems Engineer • Researcher • Future Systems Explorer
 
-I am interested in understanding systems beyond their surface behavior. Rather than focusing only on how technology is used, I focus on how it works, why it works, where it fails, and how it can be improved.
+I explore systems beyond their surface behavior—understanding how they work, why they fail, and how they can be improved.
 
-My approach is driven by analysis, experimentation, and continuous exploration. I enjoy breaking down complex problems into fundamental components, studying their interactions, and building a deeper understanding of the principles behind them.
+My research interests span operating systems, artificial intelligence, cybersecurity, automation, distributed systems, and future computing. I enjoy connecting ideas across disciplines to build a deeper understanding of complex technologies and develop practical solutions through research and experimentation.
 
-I view computing as an evolving system rather than a collection of isolated tools. Operating systems, security, automation, artificial intelligence, and future computing concepts are interconnected domains that influence one another. Understanding these relationships is often more valuable than mastering a single technology.
+## 🔬 Current Focus
 
-My long-term interest lies in exploring resilient, intelligent, and adaptive systems capable of solving increasingly complex challenges. Through research, engineering, and hands-on experimentation, I aim to contribute to ideas that extend beyond current limitations and help shape the future of computing.
+- Operating Systems & Kernel Development
+- Artificial Intelligence & Intelligent Systems
+- Cybersecurity & System Resilience
+- Systems Programming & Automation
+- Experimental Computing & Future Technologies
+
+## 🚀 Future Research Vision — NEXUS
+
+I believe research should ultimately improve humanity.
+
+One long-term vision I continue to explore is **NEXUS**—a conceptual research initiative that investigates how intelligent infrastructure, advanced AI, sustainable technologies, and global scientific collaboration could work together to improve human well-being, accelerate scientific discovery, and expand humanity's future.
+
+> **NEXUS is a long-term research vision—not an existing technology or product.** It represents the direction of my curiosity and the multidisciplinary challenges I hope to explore throughout my research career.
+
+## 🌱 Philosophy
+
+> **"Understand systems. Build better systems. Advance humanity."**
